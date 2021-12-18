@@ -1,2 +1,2 @@
 # sipelo-pbb
-# sipelo-pbb
+# Sistem Penilaian Lomba PBB
